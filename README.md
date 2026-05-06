@@ -8,7 +8,7 @@
 
 ## 📌 Project Summary
 
-This project is a **hands-on walkthrough and technology implementation** of deploying the osTicket help desk system using a Microsoft Azure Virtual Machine.
+This project provides a step-by-step visual walkthrough of deploying the osTicket help desk system using a Microsoft Azure Virtual Machine.
 
 The objective was to build a fully functional help desk environment by configuring a web server, installing required dependencies, setting up a database, and deploying the osTicket application from scratch.
 

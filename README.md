@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
+</p>
+
 # 🖥️ osTicket Installation & Configuration (Azure Virtual Machine)
 
 ---
@@ -399,17 +403,13 @@ The objective was to build a fully functional help desk environment by configuri
 
 - Installation completed successfully.
 
+- For Admin Login:
+  http://localhost/osTicket/scp/login.php
+
+- For End User Portal:
+  http://localhost/osTicket
 ---
 
-## 🔗 Access URLs
-
-- Admin Login:  
-  http://localhost/osTicket/scp/login.php  
-
-- End User Portal:  
-  http://localhost/osTicket  
-
----
 
 ## ✅ Final Result
 
